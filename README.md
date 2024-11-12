@@ -22,6 +22,7 @@ good reviews have overall ratings >= 5
 We have also implemented a mechanism to translate the customer reviews from different languages to English.
 
 ----------------------------------------Project Execution Steps---------------------------------------------
+-
 1. Create Fabric Workspace
 2. Create Lakehouse
 3. Upload Hotel_Reviews.csv file to Lakehouse
