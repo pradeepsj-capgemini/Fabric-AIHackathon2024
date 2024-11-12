@@ -1,4 +1,5 @@
 -----------------------------Sentiment Analysis - Hotel Reviews---------------------
+-
 Sentiment analysis is part of the Natural Language Processing (NLP) techniques that consists in extracting emotions related to some raw texts. 
 This is usually used on social media posts and customer reviews in order to automatically understand if some users are positive or negative and why. 
 The goal of this study is to analyse the sentiment of the customers who visited & stayed at the hostel across Europe.
